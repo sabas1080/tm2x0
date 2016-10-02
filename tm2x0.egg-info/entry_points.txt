@@ -1,0 +1,4 @@
+[console_scripts]
+tm2x0-describe = tm2x0.describe_cli:main
+tm2x0-kicad-import = tm2x0.kicad_import:main
+
